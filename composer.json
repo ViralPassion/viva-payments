@@ -1,0 +1,10 @@
+{
+    "name": "ViralPassion/viva-payments",
+    "version": "master",
+    "type": "wordpress-plugin",
+    "source": {
+        "url": "git@github.com:ViralPassion/viva-payments",
+        "type": "git",
+        "reference": "master"
+    }
+}
