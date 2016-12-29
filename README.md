@@ -23,4 +23,4 @@ This plugin add a payment gateway for viva payments to your woocommerce eshop. F
   - Upload the zip and activate the viva-payments plugin
   - Go to woocomerce settings, under checkout tab and select 'viva' to access the settings
 
-This plugin is developed by viralpassion in cooperation with ExitBee
+This plugin is developed by viralpassion
